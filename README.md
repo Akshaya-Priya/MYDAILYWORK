@@ -1,0 +1,2 @@
+# MYDAILYWORK
+Artificial Intelligence internship
