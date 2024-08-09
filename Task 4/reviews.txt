@@ -1,0 +1,150 @@
+Alice         The Silent Voice       4
+Alice         The Crimson Sun        3
+Alice         The Final Hour         5
+Bob           Lost in Time           3
+Bob           The Silent Voice       4
+Bob           The Final Hour         4
+Charlie       Shadow of Memories     5
+Charlie       The Crimson Sun        2
+Charlie       Mystic Waters          5
+Diana         The Crimson Sun        4
+Diana         Shadow of Memories     3
+Diana         Midnight Escape        2
+Eve           Midnight Escape        3
+Eve           Mystic Waters          4
+Eve           The Last Whisper       5
+Frank         Broken Harmony         4
+Frank         Echoes of the Past     3
+Frank         The Wandering Soul     5
+Grace         The Final Hour         5
+Grace         Echoes of the Past     2
+Grace         The Last Whisper       4
+Hank          Echoes of the Past     1
+Hank          Beneath the Surface    2
+Hank          The Crimson Sun        3
+Ivy           The Last Whisper       4
+Ivy           Mystic Waters          4
+Ivy           The Hidden Truth       5
+Jack          Mystic Waters          5
+Jack          The Wandering Soul     3
+Jack          Beneath the Surface    4
+Kate          The Wandering Soul     3
+Kate          The Silent Voice       4
+Kate          The Crimson Sun        4
+Leo           Beneath the Surface    2
+Leo           Rising Shadows         3
+Leo           The Phantom's Grasp    4
+Mona          Rising Shadows         4
+Mona          The Hidden Truth       5
+Mona          The Eternal Night      3
+Nina          The Eternal Night      5
+Nina          Fractured Dreams       2
+Nina          The Forgotten Path     3
+Oscar         Fractured Dreams       2
+Oscar         Shattered Reality      4
+Oscar         The Sacred Flame       3
+Paula         The Forgotten Path     3
+Paula         The Sacred Flame       4
+Paula         The Endless Journey    4
+Quinn         Shattered Reality      4
+Quinn         The Hidden Truth       5
+Quinn         The Wishing Well       3
+Rita          The Hidden Truth       5
+Rita          The Crimson Sun        4
+Rita          The Sacred Flame       3
+Sam           The Endless Journey    3
+Sam           The Wishing Well       2
+Sam           The Silver Lining      4
+Tina          The Wishing Well       2
+Tina          The Serpent's Tale     3
+Tina          The Ghost's Lament     4
+Uma           The Phantom's Grasp    4
+Uma           The Ghost's Lament     5
+Uma           The Crystal Maze       3
+Vince         The Sacred Flame       5
+Vince         The Silver Lining      4
+Vince         The Phantom's Grasp    3
+Wendy         Beyond the Horizon     3
+Wendy         The Silver Lining      4
+Wendy         The Hidden Fortress    2
+Xander        The Lost Kingdom       4
+Xander        The Serpent's Tale     3
+Xander        The Secret Garden      5
+Yara          Whispers in the Dark   5
+Yara          The Hidden Fortress    4
+Yara          The Cursed Treasure    3
+Zane          The Crystal Maze       2
+Zane          The Phantom's Curse    3
+Zane          The Enchanted Forest   5
+Abby          The Silver Lining      4
+Abby          The Glass Castle       4
+Abby          The Phantom's Curse    3
+Ben           The Serpent's Tale     3
+Ben           The Iron Mask          2
+Ben           The Golden Compass     5
+Cara          The Ghost's Lament     5
+Cara          The Glass Castle       4
+Cara          The Dark Tower         2
+Dave          The Secret Garden      1
+Dave          The Hidden Fortress    4
+Dave          The Burning Sky        3
+Elle          The Hidden Fortress    4
+Elle          The Cursed Treasure    2
+Elle          The Forsaken Lands     3
+Finn          The Cursed Treasure    3
+Finn          The Golden Compass     5
+Finn          The Eternal Flame      2
+Gina          The Enchanted Forest   5
+Gina          The Phantom's Curse    4
+Gina          The Eternal Flame      3
+Hugo          The Iron Mask          2
+Hugo          The Burning Sky        4
+Hugo          The Forsaken Lands     3
+Isla          The Glass Castle       4
+Isla          The Dark Tower         1
+Isla          The Midnight Sun       4
+Jake          The Phantom's Curse    3
+Jake          The Midnight Sun       4
+Jake          The Hollow Crown       3
+Luna          The Golden Compass     5
+Luna          The Midnight Sun       4
+Luna          The Fallen Angel       5
+Max           The Dark Tower         1
+Max           The Fallen Angel       3
+Max           The Burning Sky        4
+Nora          The Midnight Sun       4
+Nora          The Hollow Crown       3
+Nora          The Ivory Throne       2
+Owen          The Hollow Crown       3
+Owen          The Fallen Angel       5
+Owen          The Eternal Flame      4
+Piper         The Fallen Angel       5
+Piper         The Ivory Throne       2
+Piper         The Forsaken Lands     3
+Quincy        The Ivory Throne       2
+Quincy        The Forsaken Lands     4
+Quincy        The Wandering Star     3
+Rose          The Burning Sky        4
+Rose          The Eternal Flame      5
+Rose          The Wandering Star     3
+Steve         The Forsaken Lands     3
+Steve         The Wandering Star     1
+Steve         The Crimson Tide       4
+Toby          The Eternal Flame      5
+Toby          The Crimson Tide       4
+Toby          The Silver Moon        3
+Una           The Wandering Star     1
+Una           The Crimson Tide       4
+Una           The Lost City          5
+Victor        The Crimson Tide       4
+Victor        The Silver Moon        3
+Victor        The Lost City          4
+Willow        The Silver Moon        3
+Willow        The Lost City          4
+Willow        The Hidden Key         2
+Xena          The Lost City          5
+Xena          The Hidden Key         3
+Xena          The Crystal Maze       4
+Yves          The Hidden Key         2
+Yves          The Crystal Maze       3
+Yves          The Phantom's Grasp    4
